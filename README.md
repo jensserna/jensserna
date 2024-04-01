@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Jens Serna 👋
+
+- 🔭 I’ve been coding for over 20 years
+- 🌱 I’m currently learning Jenkins
+- 👯 I’m looking to collaborate on SaaS projects
+- ⚡ Fun fact: love soccer and can play it
 
 <!--
 **jensserna/jensserna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
