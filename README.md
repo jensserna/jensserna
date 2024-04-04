@@ -1,7 +1,7 @@
 ### Hi I'm Jens Serna 👋
 
 - 🔭 I’ve been coding for a while
-- 🌱 I’m currently learning Jenkins
+- 🌱 I’m currently learning htmx
 - 👯 I’m looking to collaborate on SaaS projects
 - ⚡ Fun fact: love soccer and can play it
 
