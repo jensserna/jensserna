@@ -1,7 +1,7 @@
 ### Hi I'm Jens Serna 👋
 
 - 🔭 I’ve been coding for a while
-- 🌱 I’m currently learning htmx
+- 🌱 I’m currently learning Java/Quarkus
 - ⚡ Fun fact: love soccer and can play it
 
 <!--
