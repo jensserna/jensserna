@@ -1,8 +1,8 @@
 ### Hi I'm Jens Serna 👋
 
-- 🔭 I’ve been coding for a while
-- 🌱 I’m currently learning Java/Quarkus
-- ⚡ Fun fact: love soccer and can play it
+- 🔭 I’ve been coding and designing software for a while
+- 🌱 I’m currently learning KQL and how to be a better manager
+- ⚡ Fun fact: enjoy soccer and can play it
 
 <!--
 **jensserna/jensserna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
